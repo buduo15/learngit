@@ -3,4 +3,5 @@ git is free software distributed under the gpl.
 the girl is beautiful. 
 Creating a new branch is quick and simple.
 creat a new branch is quick & simple.
+&simple
 
